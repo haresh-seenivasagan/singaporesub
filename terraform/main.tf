@@ -51,4 +51,11 @@ tags = {
 }
 
 
+resource "aws_redshift_cluster" "singaporesub_warehouse" {
 
+  cluster_identifier = "singaporesub_warehouse"
+  database_name = "subdb"
+  node_type = "dc"
+  cluster_type = "single-node"
+  
+}
