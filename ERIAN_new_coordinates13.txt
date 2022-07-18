@@ -1,0 +1,34 @@
+NIGHT SAFARI:
+
+starting position: 
+1 24 . 2040 N
+103 46 . 3060 E
+
+1.403586, 103.788619
+
+
+
+WILDLIFE HEATHCARE RESEARCH CENTRE:
+'1.404245', '103.791225'
+
+
+GATE INSIDE ZOO BROWN GATE:
+1.404152', '103.792377'
+1.4041075 , 103.7924951
+
+Erian@2255
+
+stop 2 inside zoo ( polar bear station):
+1.403390', '103.793592
+1.24.2000 , 103 45 .61
+1.403313, 103.788736
+
+stop 3 Reptopia
+1.401985', '103.794979'
+1.4020163 , 103.7950647
+
+scp erianfinal.py singaporezoo@192.168.147.109:/home/singaporezoo/Desktop/eriandeploy
+stop 4 kidzoworld
+1.403150, 103.796130
+maps : 1.403063, 103.796302
+app: 124 183 , 103 47 7810

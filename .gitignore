@@ -1,2 +1,4 @@
 .env
 terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/4.21.0/windows_386/terraform-provider-aws_v4.21.0_x5.exe
+terraform/secret.tfvars
+config.conf
