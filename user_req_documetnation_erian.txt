@@ -1,6 +1,0 @@
-end user :
--adding members(how to subscribe)
--how to transfer ownership
--what messages users will recieve
--security(private)
-
